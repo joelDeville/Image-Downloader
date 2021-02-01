@@ -1,5 +1,5 @@
-# JavaFX-Project
-A Personal JavaFX Project
+# Image-Downloading
+Image downloader via URL
 
 This program connects via URL to the internet. 
 Then, a download process will occur which will deliver the image to your local machine. 
