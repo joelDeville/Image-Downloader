@@ -1,4 +1,4 @@
-# Image-Downloading
+# Image-Downloader
 Image downloader via URL
 
 This program connects via URL to the internet. 
